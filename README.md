@@ -85,11 +85,16 @@ This project is open-source and free to use. Modify it as needed for your person
 
 ---
 
-## Author
+## 🤝 Contributions
 
-[Gayathri K]
+Feel free to fork and contribute. Open a pull request with your suggestions.
 
+---
 
-Feel free to contribute or suggest improvements!
+## 📩 Contact
+
+For queries: [gayathrikumarofficial@example.com]
+LinkedIn:[www.linkedin.com/in/gayathrikumarofficial]
+
 
 
